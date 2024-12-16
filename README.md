@@ -2,8 +2,8 @@
 Absence from work during normal working hours, resulting in temporary incapacity to execute regular working activity
 
 ## Problem :
-Higher Competitiveness ----> Increased Pressure
-Unachievable Business Goals ----> Raises Stress Level
+Higher Competitiveness ----> Increased Pressure <br>
+Unachievable Business Goals ----> Raises Stress Level <br>
 Elevated risk of becoming Unemployed ----> Raises Stress Level
 
 ## Purpose of the Business :
