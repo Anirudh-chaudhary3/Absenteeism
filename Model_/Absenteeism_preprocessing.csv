@@ -1,4 +1,4 @@
-Reason_1,Reason_2,Reason_3,Reason_4,Transportation Expense,Distance to Work,Age,Daily Work Load Average,Body Mass Index,Education,Children,Pets,Absenteeism Time in Hours,Month Value,Day of the Week
+Reason_1,Reason_2,Reason_3,Reason_4,Transportation Expense,Distance to Work,Age,Daily Work Load Average,Body Mass Index,Education,Children,Pets,Absenteeism Time in Hours,Month,Day of the Week
 False,False,False,True,289,36,33,239.554,30,0,2,1,4,7,1
 False,False,False,False,118,13,50,239.554,31,0,1,0,0,7,1
 False,False,False,True,179,51,38,239.554,31,0,0,0,2,7,2
